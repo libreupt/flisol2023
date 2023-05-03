@@ -13,7 +13,7 @@ Cada año, el FLISoL reúne a personas interesadas en el software libre para com
 |est. Sebastián Cotrina |Libertad o nada: Introducción al Software Libre              |9:20am    |[Introduccion_al_Software_Libre.pdf](ponencias/Introduccion_al_Software_Libre.pdf)          |
 |ing. Arón Ibáñez       |Integration test with Software Libre                         |10:00am   |[Integration_Tests_with_Open_Source.pdf](ponencias/Integration_Tests_with_Open_Source.pdf)          |
 |est. Jorge Pacora      |Experiencias con Raspberry Pi                                |11:00am   |[Experiencias_RaspberryPi.pdf](ponencias/Experiencias_RaspberryPi.pdf)          |
-|ing. Patrick Cuadros   |Analizando código con Sonarqube                              |12:00am   |:warning:        |
+|ing. Patrick Cuadros   |Analizando código con Sonarqube                              |12:00am   |[PresentacionSonar.pdf](ponencias/PresentacionSonar.pdf)        |
 
 
 
